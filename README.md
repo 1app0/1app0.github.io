@@ -1,2 +1,0 @@
-# Exam-Scheduler
-SEP Project
