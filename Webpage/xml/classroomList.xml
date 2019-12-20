@@ -3,11 +3,6 @@
   <classrooms>
     <name>B101</name>
     <hasProjector>true</hasProjector>
-    <capacity>132</capacity>
-  </classrooms>
-  <classrooms>
-    <name>D43</name>
-    <hasProjector>true</hasProjector>
-    <capacity>41</capacity>
+    <capacity>33</capacity>
   </classrooms>
 </classroomlist>

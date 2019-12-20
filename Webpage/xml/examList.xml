@@ -6,9 +6,9 @@
       <year>2019</year>
       <day>1</day>
     </date>
-    <name>SDJ</name>
+    <name>Programming</name>
     <examiner>
-      <name>Michael</name>
+      <name>Boris</name>
       <course>
         <name>SDJ</name>
       </course>
@@ -19,93 +19,12 @@
     <classroom>
       <name>B101</name>
       <hasProjector>true</hasProjector>
-      <capacity>132</capacity>
+      <capacity>33</capacity>
     </classroom>
-    <coExaminer>Astrid</coExaminer>
-    <type>Written</type>
-    <group>
-      <groupName>1z</groupName>
-    </group>
-  </exams>
-  <exams>
-    <date>
-      <month>12</month>
-      <year>2019</year>
-      <day>2</day>
-    </date>
-    <name>StupidExam2</name>
-    <examiner>
-      <name>NIkolai</name>
-      <course>
-        <name>RWD</name>
-      </course>
-    </examiner>
-    <course>
-      <name>RWD</name>
-    </course>
-    <classroom>
-      <name>D43</name>
-      <hasProjector>true</hasProjector>
-      <capacity>41</capacity>
-    </classroom>
-    <coExaminer>Michael</coExaminer>
-    <type>Written</type>
-    <group>
-      <groupName>1z</groupName>
-    </group>
-  </exams>
-  <exams>
-    <date>
-      <month>12</month>
-      <year>2019</year>
-      <day>3</day>
-    </date>
-    <name>AnotherOne</name>
-    <examiner>
-      <name>Michael</name>
-      <course>
-        <name>SDJ</name>
-      </course>
-    </examiner>
-    <course>
-      <name>SDJ</name>
-    </course>
-    <classroom>
-      <name>D43</name>
-      <hasProjector>true</hasProjector>
-      <capacity>41</capacity>
-    </classroom>
-    <coExaminer>fff</coExaminer>
+    <coExaminer>Boris Jr.</coExaminer>
     <type>Oral</type>
     <group>
-      <groupName>1z</groupName>
-    </group>
-  </exams>
-  <exams>
-    <date>
-      <month>12</month>
-      <year>2019</year>
-      <day>4</day>
-    </date>
-    <name>AnotherOneOne</name>
-    <examiner>
-      <name>Michael</name>
-      <course>
-        <name>SDJ</name>
-      </course>
-    </examiner>
-    <course>
-      <name>SDJ</name>
-    </course>
-    <classroom>
-      <name>D43</name>
-      <hasProjector>true</hasProjector>
-      <capacity>41</capacity>
-    </classroom>
-    <coExaminer>hhhhh</coExaminer>
-    <type>Oral</type>
-    <group>
-      <groupName>1w</groupName>
+      <groupName>1Z</groupName>
     </group>
   </exams>
 </examlist>
